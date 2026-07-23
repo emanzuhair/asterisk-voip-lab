@@ -70,3 +70,14 @@ These are some of the resources that helped me while building this lab:
 ✅ Successful call between Zoiper and MicroSIP
 
 🔄 More features will be added as I continue learning.
+
+## Skills Practiced
+
+- Linux command line
+- Asterisk installation
+- PJSIP configuration
+- SIP endpoint registration
+- Dialplan configuration
+- VoIP troubleshooting
+- Softphone configuration
+- Basic SIP call flow
