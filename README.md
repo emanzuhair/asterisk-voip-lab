@@ -6,12 +6,14 @@ I built this lab to better understand how SIP registration and basic VoIP calls 
 
 ## What I used
 
-- Hyper-V - I always prefer it more than VMware and others VM software :)
-- Ubuntu 22.04
-- Asterisk 22
-- PJSIP
-- Zoiper
-- MicroSIP
+## What I Used
+
+- **Hyper-V** – My personal favorite virtualization platform. 😊
+- **Ubuntu 22.04**
+- **Asterisk 22**
+- **PJSIP**
+- **Zoiper**
+- **MicroSIP**
 
 
 ## What I learned
